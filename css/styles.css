@@ -97,9 +97,12 @@ main {
 
 .section {
   text-align: center;
+  margin-bottom: 186px;
 }
 .article {
   width: 350px;
+
+  align-items: center;
 }
 @media screen and (width >=768px) {
   .flex {
@@ -113,5 +116,113 @@ main {
   }
   .article--left {
     text-align: left;
+  }
+}
+
+.image-devices {
+  margin-bottom: 130px;
+}
+@media screen and (width >=768px) {
+  .image-devices {
+    margin-bottom: 161px;
+  }
+}
+.section-item {
+  text-align: center;
+  margin-bottom: 90px;
+}
+@media screen and (width >=768px) {
+  .section-item {
+    margin-bottom: 72px;
+  }
+}
+.item-container {
+  margin-bottom: 132px;
+}
+.article-icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (width >=768px) {
+  .item-container {
+    width: 1110px;
+    margin-inline: auto;
+  }
+  .image-devices {
+    margin-inline: auto;
+  }
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo-margin {
+  margin-bottom: 100px;
+  width: 139px;
+  height: 41px;
+}
+@media screen and (width >=768px) {
+  .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .logo-margin {
+    margin-bottom: 100px;
+    width: 139px;
+    height: 41px;
+    margin-inline: auto;
+  }
+}
+.section-button {
+  padding-top: 123px;
+  padding: 123px 32px 0;
+  text-align: center;
+  margin-bottom: 160px;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 375px;
+  background-color: #e2ebef;
+}
+
+.logo-footer {
+  width: 55px;
+  height: 55px;
+  margin-bottom: 10px;
+}
+
+.text-footer {
+  margin-bottom: 10px;
+}
+.social-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 40px;
+  height: 19.5px;
+}
+
+@media screen and (width >=768px) {
+  .footer-container {
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    padding-inline: 165px;
+  }
+  .text-footer {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    justify-items: start;
   }
 }
