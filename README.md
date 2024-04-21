@@ -1,6 +1,6 @@
 # Clipboard Landing Page
 
-![Captura del proyecto](https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/tiffanyona6/clipboard-landing-page/main/Readme-img/desktop-preview.jpg)
 
 ## Ejemplo en vivo
 
