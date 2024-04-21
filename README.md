@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](https://tiffanyona6.github.io/3-column-preview/)
+- [URL-de-github-pages-de-este-proyecto](https://tiffanyona6.github.io/clipboard-landing-page/)
 - [URL-de-la-api](URL-de-la-api)
 
 ## Descripción 📑
