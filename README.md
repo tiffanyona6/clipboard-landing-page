@@ -13,7 +13,7 @@ Diseño de la página principal de una web.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Se ha aplicado el flexbox y grid.
+Se ha aplicado  flexbox y grid.
 
 ## Tecnologías 🛠
 
@@ -35,12 +35,15 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 **Tiffany Oña**
 
-- Email: tiffanyona6@gmail.com
+
+- [Email](tiffanyona6@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tiffany-o%C3%B1a-/)
 
 ## Instalación
 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+Este proyecto necesita de instalación.
+-npm install
+-npm run dev
 
 ## Licencia 📄
 
