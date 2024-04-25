@@ -5,7 +5,7 @@
 ## Ejemplo en vivo
 
 - [URL-de-github-pages-de-este-proyecto](https://tiffanyona6.github.io/clipboard-landing-page/)
-- [URL-de-la-api](URL-de-la-api)
+
 
 ## Descripción 📑
 
@@ -36,7 +36,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 **Tiffany Oña**
 
 
-- [Email](tiffanyona6@gmail.com)
+- Email: tiffanyona6@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/tiffany-o%C3%B1a-/)
 
 ## Instalación
