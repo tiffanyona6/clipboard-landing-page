@@ -41,9 +41,9 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Instalación
 
-Este proyecto necesita de instalación.
--npm install
--npm run dev
+Este proyecto necesita de instalación. New terminal:
+- npm install
+- npm run dev
 
 ## Licencia 📄
 
